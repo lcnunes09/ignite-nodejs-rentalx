@@ -181,3 +181,15 @@ No arquivo package.json: alterar o script "dev" para:
 Ao rodar o servidor, já irá aparecer que o debug está funcionando e ao dar o play na área de debug, uma barra vermelha já irá aparecer.
 
 Pode ser colocado variávels dentro da área "watch" para acompanhar.
+
+# Configurando a utilização UUID
+Para instalar:
+```shell
+yarn add uuid
+yarn add @types/uuid -D
+```
+
+Na aplicação importar
+```javascript
+import { v4 as uuidV4 } from "uuid";
+```
