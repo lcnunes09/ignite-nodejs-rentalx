@@ -11,7 +11,9 @@ Repositório para criar a aplicação RentalX do Ignite NodeJS.
 
 [Configurando a utilização UUID](https://github.com/lcnunes09/ignite-nodejs-rentalx/blob/main/learnings-and-implementation-guide/04-uuid-configuration.md)
 
-[File Upload](https://github.com/lcnunes09/ignite-nodejs-rentalx/blob/main/learnings-and-implementation-guide/05-file-upload.md)
+[Upload de Arquivo](https://github.com/lcnunes09/ignite-nodejs-rentalx/blob/main/learnings-and-implementation-guide/05-file-upload.md)
+
+[Ler arquivo CSV](https://github.com/lcnunes09/ignite-nodejs-rentalx/blob/main/learnings-and-implementation-guide/06-read-csv-file.md)
 
 
 # Princípios SOLID
