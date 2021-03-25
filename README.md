@@ -15,6 +15,7 @@ Repositório para criar a aplicação RentalX do Ignite NodeJS.
 
 [Ler arquivo CSV](https://github.com/lcnunes09/ignite-nodejs-rentalx/blob/main/learnings-and-implementation-guide/06-read-csv-file.md)
 
+[Setup Swagger](https://github.com/lcnunes09/ignite-nodejs-rentalx/blob/main/learnings-and-implementation-guide/07-adding-swagger.md)
 
 # Princípios SOLID
 S => SRP - Single Responsibility Principle - Princípio da Responsabilidade Única
