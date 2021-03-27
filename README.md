@@ -17,6 +17,10 @@ Repositório para criar a aplicação RentalX do Ignite NodeJS.
 
 [Setup Swagger](https://github.com/lcnunes09/ignite-nodejs-rentalx/blob/main/learnings-and-implementation-guide/07-adding-swagger.md)
 
+[Docker Container e Docker File](https://github.com/lcnunes09/ignite-nodejs-rentalx/blob/main/learnings-and-implementation-guide/08-docker-container-and-docker-file.md)
+
+[Docker Compose](https://github.com/lcnunes09/ignite-nodejs-rentalx/blob/main/learnings-and-implementation-guide/09-docker-compose.md)
+
 # Princípios SOLID
 S => SRP - Single Responsibility Principle - Princípio da Responsabilidade Única
 O => OCP - Open-Closed Principle (Princípio aberto/fechado)
