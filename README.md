@@ -29,6 +29,8 @@ Repositório para criar a aplicação RentalX do Ignite NodeJS.
 
 [Configura as Migrations e cria a primeira migration - Create Category](https://github.com/lcnunes09/ignite-nodejs-rentalx/blob/main/learnings-and-implementation-guide/13-configure-migrations-and-create-first-one.md)
 
+----
+
 # Princípios SOLID
 S => SRP - Single Responsibility Principle - Princípio da Responsabilidade Única
 
