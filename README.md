@@ -31,6 +31,8 @@ Abaixo segue o passo a passo para a criação do projeto, além do código.
 
 [13. Configura as Migrations e cria a primeira migration - Create Category](https://github.com/lcnunes09/ignite-nodejs-rentalx/blob/main/learnings-and-implementation-guide/13-configure-migrations-and-create-first-one.md)
 
+----
+
 # Princípios SOLID
 S => SRP - Single Responsibility Principle - Princípio da Responsabilidade Única
 
