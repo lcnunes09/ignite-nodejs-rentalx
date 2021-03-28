@@ -66,3 +66,18 @@ Para ficar observando os logs:
 ```shell
 docker logs rentx -f
 ```
+
+Para forçar a recriação da imagem da aplicação, caso haja alguma mudança no docker-compose file.
+```shell
+docker-compose up --force-recreate
+```
+
+Comando para verificar o IP dos containers docker:
+```shell
+docker inspect --format='{{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}' rentx
+```
+
+Comando para verificar dados dos containers docker:
+```shell
+docker exec rentx cat /etc/hosts
+```
