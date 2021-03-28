@@ -23,6 +23,12 @@ Repositório para criar a aplicação RentalX do Ignite NodeJS.
 
 [Comandos Docker / Docker Compose](https://github.com/lcnunes09/ignite-nodejs-rentalx/blob/main/learnings-and-implementation-guide/10-docker-dockercompose-commands.md)
 
+[Instalando e Configurando TypeORM e Configurando Banco de Dados](https://github.com/lcnunes09/ignite-nodejs-rentalx/blob/main/learnings-and-implementation-guide/11-install-type-orm-and-configure-database.md)
+
+[Rodando a aplicação com o banco de dados utilizando Docker](https://github.com/lcnunes09/ignite-nodejs-rentalx/blob/main/learnings-and-implementation-guide/12-run-app-with-postgres-on-docker.md)
+
+[Configura as Migrations e cria a primeira migration - Create Category](https://github.com/lcnunes09/ignite-nodejs-rentalx/blob/main/learnings-and-implementation-guide/13-configure-migrations-and-create-first-one.md)
+
 # Princípios SOLID
 S => SRP - Single Responsibility Principle - Princípio da Responsabilidade Única
 O => OCP - Open-Closed Principle (Princípio aberto/fechado)
