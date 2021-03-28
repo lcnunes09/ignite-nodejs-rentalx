@@ -56,22 +56,6 @@ Para verificar os containers:
 docker ps
 ```
 
-Para executar e acessar o nosso container, rodar o docker exec com o nome da imagem criada (o último parâmetro da listagem das imagens): 
-```shell
-docker exec -it sad_galileo /bin/bash
-```
-
-Após rodar esse comando, é exibido um shell e, ao colocar o comando ls, por exemplo, é possível verificar as pastas da nossa aplicação.
-
-Para parar o container, rodar docker stop + container id:
-```shell
-docker stop 1de3djdks
-```
-
-Para remover o container, rodar docker rm + container id:
-```shell
-docker rm
-```
 
 Dica:
 Para verificar todas as imagens disponíveis do Docker: https://hub.docker.com/search

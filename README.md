@@ -21,6 +21,8 @@ Repositório para criar a aplicação RentalX do Ignite NodeJS.
 
 [Docker Compose](https://github.com/lcnunes09/ignite-nodejs-rentalx/blob/main/learnings-and-implementation-guide/09-docker-compose.md)
 
+[Comandos Docker / Docker Compose](https://github.com/lcnunes09/ignite-nodejs-rentalx/blob/main/learnings-and-implementation-guide/10-docker-dockercompose-commands.md)
+
 # Princípios SOLID
 S => SRP - Single Responsibility Principle - Princípio da Responsabilidade Única
 O => OCP - Open-Closed Principle (Princípio aberto/fechado)
