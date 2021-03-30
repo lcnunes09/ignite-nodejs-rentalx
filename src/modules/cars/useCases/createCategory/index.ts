@@ -1,3 +1,4 @@
+/* 
 import { CategoriesRepository } from "../../repositories/implementations/CategoriesRepository";
 import { CreateCategoryController } from "./CreateCategoryController";
 import { CreateCategoryUseCase } from "./CreateCategoryUseCase";
@@ -11,7 +12,7 @@ export default (): CreateCategoryController => {
     createCategoryUseCase
   );
 
-  console.log("category index");
-
   return createCategoryController;
 };
+
+*/

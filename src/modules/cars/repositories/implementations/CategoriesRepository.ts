@@ -18,7 +18,7 @@ class CategoriesRepository implements ICategoriesRepository {
       description,
       name,
     });
-    console.log("category create");
+
     await this.repository.save(category);
   }
 
