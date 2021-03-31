@@ -42,6 +42,3 @@ Variáveis de configuração podem ser carregadas ao iniciar o sistema, e normal
 Uma aplicação multi-thread que necessite acessar recursos de um hardware onde o mesmo não foi feito para trabalhar dessa forma pode se beneficiar desse padrão. Isso porque todas as classes que necessitarem acessar algum recurso do hardware deverão utilizar a mesma instância da classe singleton. Esta será responsável por controlar todas as operações de comunicação entre a aplicação e o hardware.
 
 Reference: https://www.opus-software.com.br/singleton-design-pattern/
-
-## Configurando o código
-- Criar uma estrutura de pasta, por exemplo, na raiz criar a pasta `shared` e dentro dela `container`. Dentro desta pasta, criar arquivo `index.ts`. 
