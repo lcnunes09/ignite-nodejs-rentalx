@@ -1,4 +1,4 @@
-# Ignite Rocketseat NodeJS - RentalX
+# Ignite Rocketseat NodeJS - RentX
 Repositório da aplicação RentX do Ignite NodeJS e guia de implementação.
 
 ## Guia de Implementação do Projeto
