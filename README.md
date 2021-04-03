@@ -31,6 +31,10 @@ Abaixo segue o passo a passo para a criação do projeto, além do código.
 
 [13. Configura as Migrations e cria a primeira migration - Create Category](https://github.com/lcnunes09/ignite-nodejs-rentalx/blob/main/learnings-and-implementation-guide/13-configure-migrations-and-create-first-one.md)
 
+[14. Utilizando injeção de dependências no NodeJS - TSyringe](https://github.com/lcnunes09/ignite-nodejs-rentalx/blob/main/learnings-and-implementation-guide/14-tsyringe-dependency-injection.md)
+
+[15. Encriptando Password](https://github.com/lcnunes09/ignite-nodejs-rentalx/blob/main/learnings-and-implementation-guide/15-configure-encrypted-password.md)
+
 ----
 
 # Princípios SOLID
