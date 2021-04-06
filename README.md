@@ -35,6 +35,8 @@ Abaixo segue o passo a passo para a criação do projeto, além do código.
 
 [15. Encriptando Password](https://github.com/lcnunes09/ignite-nodejs-rentalx/blob/main/learnings-and-implementation-guide/15-configure-encrypted-password.md)
 
+[16. Usando JWT (Json Web Token) para Autenticação](https://github.com/lcnunes09/ignite-nodejs-rentalx/blob/main/learnings-and-implementation-guide/16-using-jwt-to-authenticate.md)
+
 ----
 
 # Princípios SOLID
