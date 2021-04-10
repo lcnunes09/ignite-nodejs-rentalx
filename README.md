@@ -37,6 +37,12 @@ Abaixo segue o passo a passo para a criação do projeto, além do código.
 
 [16. Usando JWT (Json Web Token) para Autenticação](https://github.com/lcnunes09/ignite-nodejs-rentalx/blob/main/learnings-and-implementation-guide/16-using-jwt-to-authenticate.md)
 
+[17. Garantindo que apenas usuários autenticados acessem a aplicação](https://github.com/lcnunes09/ignite-nodejs-rentalx/blob/main/learnings-and-implementation-guide/17-ensure-authentication.md)
+
+[18. Controlando mensagens de erro e status code](https://github.com/lcnunes09/ignite-nodejs-rentalx/blob/main/learnings-and-implementation-guide/18-controlling-error-messages-and-status-code.md)
+
+[19. Exemplos: Status Code](https://github.com/lcnunes09/ignite-nodejs-rentalx/blob/main/learnings-and-implementation-guide/19-status-codes.md)
+
 ----
 
 # Princípios SOLID

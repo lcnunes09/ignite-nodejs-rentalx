@@ -1,6 +1,6 @@
 # Garantindo que apenas usuários autenticados acessem a aplicação
 
-# Criar middleware para autenticação
+## Criar middleware para autenticação
 Dentro de `src` criar arquivo `ensureAuthentication.ts`
 
 ## Dados para autenticação
@@ -16,7 +16,7 @@ Dentro de `src` criar arquivo `ensureAuthentication.ts`
 - Lembrar de colocar o next(); no final 
 - Para efetuar a destruturação, criar interface IPayload, por exemplo, e chamar o `sub`
 
-# Utilizando a autenticação nas rotas
+## Utilizando a autenticação nas rotas
 - Para garantir que a rota apenas será chamada caso esteja autenticada, exemplo:
 
 ```javascript
