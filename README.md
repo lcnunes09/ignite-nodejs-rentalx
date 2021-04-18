@@ -43,6 +43,10 @@ Abaixo segue o passo a passo para a criação do projeto, além do código.
 
 [19. Exemplos: Status Code](https://github.com/lcnunes09/ignite-nodejs-rentalx/blob/main/learnings-and-implementation-guide/19-status-codes.md)
 
+[20. Instalando JEST na aplicação](https://github.com/lcnunes09/ignite-nodejs-rentalx/blob/main/20-testing-application-with-jest.md)
+
+[21. Automatizando imports com ts-config](https://github.com/lcnunes09/ignite-nodejs-rentalx/blob/main/learnings-and-implementation-guide/21-automate-imports-ts-config.md)
+
 ----
 
 # Princípios SOLID
